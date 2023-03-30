@@ -1,3 +1,2 @@
-# primeiro_teste_automatizado
-# aula_cypress
+# Teste automatizado utilizando Cypress
  
